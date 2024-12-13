@@ -11,7 +11,7 @@ A twist on Tic Tac Toe made using Python's Tkinter library! Answer questions abo
 
 ## snakesin4k Members
 - [Chris (@cheesybluesberry)](https://github.com/cheesybluesberry) 
-- [Jerrick (Jerrifish)](https://github.com/Jerrifish)
+- [Jerrick (@Jerrifish)](https://github.com/Jerrifish)
 - Lukas
 - [Nathaniel (@Neonat)](https://github.com/neonat) 
 - [Yu Min (@notyumin)](https://github.com/notyumin)
